@@ -1,0 +1,10 @@
+{
+    "name": "Nou Joc",
+    "levels": [{
+        "name": "Castell",
+        "layers": [],
+        "description": "Castell Bowser",
+        "zones": [],
+        "sprites": []
+    }]
+}
